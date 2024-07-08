@@ -1,9 +1,9 @@
 # MIDIAS COM TELEGRAF
 🤤ESSE É UM BOT DO TELEGRAM DE MULTIMIDIAS COM TELEGRAF (NODEJS/JS)!
 
-<img src="./IMAGENS/FOTO_1.png" align="center" width="400"> <br>
-<img src="./IMAGENS/FOTO_2.png" align="center" width="400"> <br>
-<img src="./IMAGENS/FOTO_3.png" align="center" width="400"> <br>
+<img src="./IMAGENS/FOTO_01.png" align="center" width="400"> <br>
+<img src="./IMAGENS/FOTO_02.png" align="center" width="400"> <br>
+<img src="./IMAGENS/FOTO_03.png" align="center" width="400"> <br>
 
 ## DESCRIÇÃO:
 Este bot do Telegram é um exemplo simples que envia diferentes tipos de mídia aos usuários mediante comandos específicos. O bot pode enviar fotos, músicas, vídeos e documentos armazenados localmente. 
